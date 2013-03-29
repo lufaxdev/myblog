@@ -1,5 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+baseurl: /myblog
 permalink: /:categories/:title.html
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
@@ -12,25 +13,25 @@ topbar:
   #  url : '/footmark/index.html'
   #  title : 'Footmark'
   - 
-    url : '/develop/index.html'
+    url : '/myblog/develop/index.html'
     title : '技术之旅'
   -
-    url : '/itnews/index.html'
+    url : '/myblog/itnews/index.html'
     title : '科技潮流'
   -
-    url : '/open/index.html'
+    url : '/myblog/open/index.html'
     title : '开源项目'
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 晨旭园
+title : 栋若观火
 author :
-  name : mceiba
-  email : mceiba@gmail.com
-  github : mceiba
-  twitter : zhangsp
-  feedburner : nil
+  name : superjameswang
+  email : superjameswang@gmail.com
+  github : superjameswang
+  twitter : superjameswang
+  feedburner : **
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -40,7 +41,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.mceiba.com
+production_url : http://superjameswang.GitHub.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -55,7 +56,7 @@ JB :
   # Leave this blank if you have defined a CNAME for your site (pages.github.com)
   # NOTE: When in localhost, your site will run from root "/" regardless of BASE_PATH
   #
-  BASE_PATH : ""
+  BASE_PATH : "/myblog"
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -70,9 +71,9 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change theme here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
+  archive_path: /myblog/archive.html
+  categories_path : /myblog/categories.html
+  tags_path : /myblog/tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -81,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : mceiba
+      short_name : superjameswang
     livefyre :
       site_id : 123
     intensedebate :
@@ -96,7 +97,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 'UA-31075648-1'
+        tracking_id : 
     getclicky :
       site_id : 
 

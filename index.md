@@ -1,9 +1,9 @@
 ---
 layout: landing
-title: mceiba的个人博客
-head_title: 晨旭园
+title: superjameswang的个人博客
+head_title: 栋若观火
 description: |
-  屌丝的技术生涯
+   人生之旅刚刚开始 
 ---
 
 <div class="row" style="margin-bottom:20px;">
