@@ -60,7 +60,8 @@
         <script src="{{site.baseurl}}/assets/app.js?v=0.1"></script>
     <script>
       $(function(){
-	  forkme.init();
+          forkme.init();
+          alert({{ page.url  }});
       {% if page.url == "/index.html" %}
         Tabs.init("#tab-list", "#tab-content-wrapper");
         //Pc.init();
