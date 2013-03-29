@@ -14,9 +14,9 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <!-- Le styles -->
-    <link href="{{site.baseurl}}{{ASSET_PATH }}/css/bootstrap.min.css" rel="stylesheet">
-    <link href="{{site.baseurl}}{{ ASSET_PATH }}/css/custom.css?v=0.3" rel="stylesheet" type="text/css" media="all">
-    <link href="{{site.baseurl}}{{ ASSET_PATH }}/css/syntax.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ASSET_PATH }}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/css/custom.css?v=0.3" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/css/syntax.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link rel="shortcut icon" href="{{site.baseurl}}/assets/images/favicon.ico" />
     <script src="{{site.baseurl}}/assets/function.js"></script>
   </head>
@@ -54,7 +54,7 @@
     </div> <!-- /container -->
     
     {% include sidebar.html %}
-    <a id="forkme" style="display:none" href="http://github.com/mceiba/mceiba.github.com"><img style="position: absolute; top: 40px; right: 0; border: 0;" src="/assets/images/forkme.png" alt="Fork me on GitHub"></a>
+    <a id="forkme" style="display:none" href="http://github.com/superjameswang/myblog"><img style="position: absolute; top: 40px; right: 0; border: 0;" src="{{site.baseurl}}/assets/images/forkme.png" alt="Fork me on GitHub"></a>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="{{ ASSET_PATH }}/js/jquery.min.js"><\/script>')</script>
         <script src="{{site.baseurl}}/assets/app.js?v=0.1"></script>
