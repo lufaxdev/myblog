@@ -1,4 +1,14 @@
 <!--Baidu Button BEGIN -->
+<div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+<a class="bds_tsina"></a>
+<a class="bds_renren"></a>
+<a class="bds_tqq"></a>
+<a class="bds_qzone"></a>
+<a class="bds_kaixin001"></a>
+<a class="bds_fbook"></a>
+<a class="bds_twi"></a>
+<a class="shareCount"></a>
+<div>
 <script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=6&amp;mini=1&amp;pos=right&amp;uid=6646674" ></script>
 <script type="text/javascript" id="bdshell_js"></script>
 <script type="text/javascript">
