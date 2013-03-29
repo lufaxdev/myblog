@@ -3,12 +3,12 @@ layout: landing
 title: superjameswang的个人博客
 head_title: 栋若观火
 description: |
-   人生之旅刚刚开始 
+   沙中有印 风中有音 光中有影 
 ---
 
 <div class="row" style="margin-bottom:20px;">
   <div style="width:100%">
-    <h3 style="margin-bottom:5px; margin-left:20px; color:#333333;">要么旅行,要么读书,身体和灵魂,必须有一个在路上</h3>
+    <h3 style="margin-bottom:5px; margin-left:20px; color:#333333;">沙中有印 风中有音 光中有影</h3>
     <h6 align="right" style="font-size:12px; margin-right:8px">喜欢我或者我的博客，可以把它加入你的<a href="javascript:void(0)" onclick="window.external.AddFavorite(location.href, document.title)">收藏夹</a></h6>
   </div>
   <div class="divbox" style="width:96%;margin-right:0px;padding-right:10px;">
