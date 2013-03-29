@@ -13,13 +13,13 @@ topbar:
   #  url : '/footmark/index.html'
   #  title : 'Footmark'
   - 
-    url : '/myblog/develop/index.html'
+    url : '/develop/index.html'
     title : '技术之旅'
   -
-    url : '/myblog/itnews/index.html'
+    url : '/itnews/index.html'
     title : '科技潮流'
   -
-    url : '/myblog/open/index.html'
+    url : '/open/index.html'
     title : '开源项目'
 
 # Themes are encouraged to use these universal variables 
