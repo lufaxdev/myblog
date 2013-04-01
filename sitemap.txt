@@ -2,6 +2,6 @@
 # Remember to set production_url in your _config.yml file!
 ---
 {% for page in site.pages %}
-{{ site.production_url }}{{ page.url }}{% endfor %}
+{{ site.production_url }}{{site.baseurl}}{{ page.url }}{% endfor %}
 {% for post in site.posts %}
-{{ site.production_url }}{{ post.url }}{% endfor %}
+{{ site.production_url }}{{site.baseurl}}{{ post.url }}{% endfor %}
