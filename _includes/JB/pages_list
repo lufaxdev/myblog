@@ -24,12 +24,14 @@ Usage:
   {% include custom/pages_list %}
 {% else %}
   {% for node in pages_list %}
-    {% if node.title and (group == null or group == node.group)  %}
+    {% if group == null or group == node.group  %}
+     {% if node.title and group != 'example-page' %}
       {% if page.url == node.url %}
       <li class="active"><a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a></li>
       {% else %}
       <li><a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a></li>
       {% endif %}		
+      {% endif %}
     {% endif %}
   {% endfor %}
 {% endif %}
