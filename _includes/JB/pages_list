@@ -24,7 +24,7 @@ Usage:
   {% include custom/pages_list %}
 {% else %}
   {% for node in pages_list %}
-    {% if node.group == null or group == node.group  %}
+    {% if (group == null and !node.group) or group == node.group  %}
      {% if node.title  %}
       {% if page.url == node.url %}
       <li class="active"><a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a></li>
