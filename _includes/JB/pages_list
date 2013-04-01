@@ -25,7 +25,7 @@ Usage:
 {% else %}
   {% for node in pages_list %}
     {% if group == null or group == node.group  %}
-     {% if node.title and group != 'example-page' %}
+     {% if node.title  %}
       {% if page.url == node.url %}
       <li class="active"><a href="{{site.baseurl}}{{node.url}}" class="active">{{node.title}}</a></li>
       {% else %}
