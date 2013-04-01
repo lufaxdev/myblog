@@ -97,7 +97,7 @@ JB :
   analytics :
     provider : google
     google : 
-        tracking_id : 
+        tracking_id : UA-39717120-1
     getclicky :
       site_id : 
 
