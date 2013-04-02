@@ -16,7 +16,7 @@ $ git config --global user.name "My Name"
 $ git config --global user.email "user@email.com"
 {% endhighlight %}
 
-<span style="float:right"><a href="http://git-scm.org"><img src="/res/images/git.png" alt="Git" /></a></span>
+<span style="float:right"><a href="http://git-scm.org"><img src="{{site.baseurl}}/res/images/git.png" alt="Git" /></a></span>
 ###关于Git，GitHub和Heroku
 
 - **Git**是一个自由开源的版本控制器，它被设计用来高效管理大大小小的项目。
@@ -55,7 +55,7 @@ $ git commit -a -m 'change files'
 $ git merge featureA
 $ git branch -d featureA
 {% endhighlight %}
-![git操作](/res/images/local-remote.png "git本地-远程操作")
+![git操作]({{site.baseurl}}/res/images/local-remote.png "git本地-远程操作")
 
 ##启动&初始化
 
@@ -166,7 +166,7 @@ $ git push staging master
 
 <table width="90%">
 	<tr>
-		<td><a href="http://github.com"><img src="/res/images/github.png" alt="GitHub" /></a></td>
-		<td><a href="http://www.heroku.com"><img src="/res/images/heroku.png" alt="Heroku" /></a></td>
+		<td><a href="http://github.com"><img src="{{site.baseurl}}/res/images/github.png" alt="GitHub" /></a></td>
+		<td><a href="http://www.heroku.com"><img src="{{site.baseurl}}/res/images/heroku.png" alt="Heroku" /></a></td>
 	</tr>
 </table>
