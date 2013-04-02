@@ -90,7 +90,7 @@ html .gist .gist-file .gist-meta a[href*=raw] {
 }
 
 pre {
-  background: #002b36 url('/assets/images/noise.png?1328348723') top left;
+  background: #002b36 url('{{site.baseurl}}/assets/images/noise.png?1328348723') top left;
   -moz-border-radius: 0.4em;
   -webkit-border-radius: 0.4em;
   -o-border-radius: 0.4em;
@@ -152,7 +152,7 @@ p pre code, li pre code {
   padding: .8em !important;
   overflow-x: auto;
   line-height: 1.45em;
-  background: #002b36 url('/assets/images/noise.png?1328348723') top left !important;
+  background: #002b36 url('{{site.baseurl}}/assets/images/noise.png?1328348723') top left !important;
   color: #93a1a1 !important;
   /* Comment */
   /* Comment.Multiline */
@@ -466,7 +466,7 @@ figure.code .highlight {
   -khtml-border-top-right-radius: 5px;
   border-top-right-radius: 5px;
   font-family: "Helvetica Neue", Arial, "Lucida Grande", "Lucida Sans Unicode", Lucida, sans-serif;
-  background: #aaaaaa url('/assets/images/code_bg.png?1328348723') top repeat-x;
+  background: #aaaaaa url('{{site.baseurl}}/assets/images/code_bg.png?1328348723') top repeat-x;
   border: 1px solid #565656;
   border-top-color: #cbcbcb;
   border-left-color: #a5a5a5;
