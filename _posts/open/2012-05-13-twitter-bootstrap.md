@@ -12,28 +12,28 @@ description: |
 
 [Bootstrap](https://github.com/twitter/bootstrap)由Twitter的[Mark Otto](http://twitter.com/mdo) 和[Jacob Thornton](http://twitter.com/fat) 创建维护，我的工作是在学习的同时将它的文档翻译为中文。
 
-你可以关注我的项目<http://www.mceiba.com/open/twitter-bootstrap>，或者原项目<http://twitter.github.com/bootstrap>!
+你可以关注我的项目<http://superjameswang.github.com/myblog/open/twitter-bootstrap>，或者原项目<http://twitter.github.com/bootstrap>!
 
 ##快速开始
 
-clone版本库，`git clone git@github.com:mceiba/twitter-bootstrap.git`，或者[下载最新版本](https://github.com/mceiba/twitter-bootstrap/zipball/master)。
+clone版本库，`git clone git@github.com:mceiba/twitter-bootstrap.git`，或者[下载最新版本](https://github.com/superjameswang/twitter-bootstrap/zipball/master)。
 
 ##Blog
 
-为了更好的学习交流，你可以关注我的个人博客<http://www.mceiba.com>。
+为了更好的学习交流，你可以关注我的个人博客<http://superjameswang.github.com>。
 
 ##邮件
 
 有问题可以邮件联系我！
 
-mceiba@gmail.com
+superjameswang@gmail.com
 zhangsp@163.com
 
 ##关注我（**mceiba**）
 
-+ <http://mceiba.com>
++ <http://superjameswang.github.com>
 + <http://twitter.com/zhangsp>
-+ <http://github.com/mceiba>
++ <http://github.com/superjameswang>
 
 ##版权和许可
 
