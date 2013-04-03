@@ -20,7 +20,7 @@ clone版本库，`git clone git@github.com:superjameswang/twitter-bootstrap.git`
 
 ##Blog
 
-为了更好的学习交流，你可以关注我的个人博客<http://superjameswang.github.com>。
+为了更好的学习交流，你可以关注我的个人博客<http://superjameswang.github.com/myblog>。
 
 ##邮件
 
