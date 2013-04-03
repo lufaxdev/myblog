@@ -16,7 +16,7 @@ description: |
 
 ##快速开始
 
-clone版本库，`git clone git@github.com:mceiba/twitter-bootstrap.git`，或者[下载最新版本](https://github.com/superjameswang/twitter-bootstrap/zipball/master)。
+clone版本库，`git clone git@github.com:superjameswang/twitter-bootstrap.git`，或者[下载最新版本](https://github.com/superjameswang/twitter-bootstrap/zipball/master)。
 
 ##Blog
 
