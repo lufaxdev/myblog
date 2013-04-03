@@ -29,7 +29,7 @@ clone版本库，`git clone git@github.com:superjameswang/twitter-bootstrap.git`
 superjameswang@gmail.com
 zhangsp@163.com
 
-##关注我（**mceiba**）
+##关注我（**superjameswang**）
 
 + <http://superjameswang.github.com>
 + <http://twitter.com/zhangsp>
@@ -37,7 +37,7 @@ zhangsp@163.com
 
 ##版权和许可
 
-Copyright 2012 mceiba.
+Copyright 2012 superjameswang
 
 代码遵守Apache License 2.0，许可文件：
 
