@@ -6,9 +6,11 @@ tags: [web]
 description: |
   学习bootstrap并碱性练习
 ---
-  开始学习
-===
-###开始学习
+##排版
+###固定排版
+
+###流动排版
+##css
 >开心行ixuexue
 >
 <h2>bbbbbbbbbbbbbbbbbb</h2>
