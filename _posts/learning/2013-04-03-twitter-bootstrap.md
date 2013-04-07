@@ -4,12 +4,15 @@ title: "twitter bootstrap"
 category: learning
 tags: [web]
 description: |
-  学习bootstrap并碱性练习
+  学习bootstrap并进行练习
 ---
 
 ##排版
 ###固定排版
-
+    <div class="row">
+      <div class="span4">abc</div>
+      <div class="span8">def</div>
+    </div>
 ###流动排版
 ##css
 >开心行ixuexue
