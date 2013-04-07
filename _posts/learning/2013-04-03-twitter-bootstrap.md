@@ -13,6 +13,11 @@ description: |
       <div class="span4">abc</div>
       <div class="span8">def</div>
     </div>
+显示效果
+<div class="row">
+<div class="span4">abc</div>
+<div class="span8">def</div>
+</div>
 ###流动排版
 ##css
 >开心行ixuexue
