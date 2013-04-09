@@ -25,11 +25,11 @@ description: |
 >开心行ixuexue
 >
 <h2>bbbbbbbbbbbbbbbbbb</h2>
-    public static main(String abc){
+     public static main(String abc){
         return true;
     }
 
-```
+```java
 public static main(String mng){
     return mn;
 }
