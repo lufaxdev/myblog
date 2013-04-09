@@ -6,7 +6,9 @@ tags: [web]
 description: |
   学习bootstrap并进行练习
 ---
+<script >
 
+</script>
 ##排版
 ###固定排版
     <div class="row">
@@ -35,6 +37,12 @@ description: |
 <div class="span1">abc</div>
 <div class="span1">abc</div>
 <div class="span1">abc</div>
+<div class="span4">abc</div>
+<div class="span8">abc</div>
+<div class="span4">abc</div>
+<div class="span4">abc</div>
+<div class="span4">abc</div>
+<div class="span4">abc</div>
 
 </div>
 </div>
