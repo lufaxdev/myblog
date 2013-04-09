@@ -28,8 +28,9 @@ description: |
     public static main(String abc){
         return true;
     }
+<?prettify?>
 <pre class="prettyprint linenums">
-publi static main(String def){
+public static main(String def){
     return true;
 }
 </pre>
