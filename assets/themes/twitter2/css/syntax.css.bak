@@ -90,6 +90,7 @@ html .gist .gist-file .gist-meta a[href*=raw] {
 }
 
 pre {
+  background: #002b36 url('/myblog/assets/images/noise.png?1328348723') top left;
   -moz-border-radius: 0.4em;
   -webkit-border-radius: 0.4em;
   -o-border-radius: 0.4em;
@@ -103,7 +104,6 @@ pre {
   padding: .8em 1em;
   color: #93a1a1;
   overflow: auto;
-  list-style-type: decimal;
 }
 
 h3.filename + pre {
