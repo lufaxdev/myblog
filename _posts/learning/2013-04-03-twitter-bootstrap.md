@@ -29,11 +29,11 @@ description: |
         return true;
     }
 <pre >
-'''java
+```java
 public static main(String mng){
     return mn;
 }
-'''
+```
 
     public static main(String def){
         return true;
