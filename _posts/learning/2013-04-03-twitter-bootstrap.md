@@ -29,14 +29,15 @@ description: |
         return true;
     }
 <pre >
-public static main(String def){
-    return true;
-
-
-
-    adfadsfadsf
-        adfadfadf
+'''java
+public static main(String mng){
+    return mn;
 }
+'''
+
+    public static main(String def){
+        return true;
+    }   
 </pre>
 {% include JB/setup %}
 
