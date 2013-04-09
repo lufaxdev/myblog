@@ -26,15 +26,17 @@
   </head>
 
   <body>
-    <div id="navbar" class="navbar navbar-fixed-top">
+    <div id="navbar" class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner" style="background:#2c2c2c">
         <div class="container" style="margin-left:20px; margin-right:20px; overflow:hidden">
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <div class="nav-collapse collapse">
           <ul class="nav" style="font-weight: 250;">
             <li class="divider-vertical"></li>
             {% assign pages_list = site.topbar %}
             {% include JB/pages_list %}
-          </ul>
+        </ul>
+        </div>
           
           <ul class="nav pull-right">
             <li class="sharing">{% include JB/sharing %}</li>
