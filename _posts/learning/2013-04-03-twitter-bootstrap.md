@@ -59,8 +59,8 @@ description: |
     }
 `static`
 *着重强调*
-*   abc
-*   def
+*abc
+*def
 *   hgk
 +   abc
 +   def
