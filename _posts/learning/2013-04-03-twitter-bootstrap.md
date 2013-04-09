@@ -29,11 +29,6 @@ description: |
         return true;
     }
 
-```java
-public static main(String mng){
-    return mn;
-}
-```
 <pre>
 
     public static main(String def){
