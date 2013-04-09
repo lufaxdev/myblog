@@ -6,9 +6,7 @@ tags: [web]
 description: |
   学习bootstrap并进行练习
 ---
-<script >
 
-</script>
 ##排版
 ###固定排版
     <div class="row">
@@ -51,16 +49,19 @@ description: |
 <div class="span4">abc</div>
 </div>
 </div>
-</div>
 ###流动排版
-##css
+##markdown测试
 >开心行ixuexue
->
+>>第二行开始
 <h2>bbbbbbbbbbbbbbbbbb</h2>
      public static main(String abc){
         return true;
     }
-
+`static`
+*着重强调*
+* abc
+* def
+* hgk
 {% include JB/setup %}
 
 
