@@ -9,15 +9,33 @@ description: |
 
 ##排版
 ###固定排版
-    <div class="row show-grid">
+    <div class="row">
       <div class="span4">abc</div>
       <div class="span8">def</div>
     </div>
-显示效果
+显示效果--为了能看到显示效果增加了show-grid
 <div class="container">
 <div class="row show-grid">
 <div class="span4">abc</div>
 <div class="span8">def</div>
+</div>
+</div>
+
+<div class="container">
+<div class="row show-grid">
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+<div class="span1">abc</div>
+
 </div>
 </div>
 ###流动排版
@@ -29,12 +47,6 @@ description: |
         return true;
     }
 
-<pre>
-
-    public static main(String def){
-        return true;
-    }   
-</pre>
 {% include JB/setup %}
 
 
