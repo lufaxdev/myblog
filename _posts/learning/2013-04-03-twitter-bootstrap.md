@@ -28,6 +28,11 @@ description: |
     public static main(String abc){
         return true;
     }
+<pre class="prettyprint linenums">
+publi static main(String def){
+    return true;
+}
+<pre>
 {% include JB/setup %}
 
 
