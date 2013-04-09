@@ -61,11 +61,8 @@ description: |
 *着重强调*
 *abc
 *def
-*   hgk
-+   abc
-+   def
-1. abc
-2. def
+1.abc
+2.def
 
 
 
