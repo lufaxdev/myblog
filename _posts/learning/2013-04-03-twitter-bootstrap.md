@@ -58,10 +58,12 @@ description: |
         return true;
     }
 `static`
--abc
--def
-1.abc
-2.def
+
+- abc
+- def
+
+1. abc
+2. def
 
 
 
