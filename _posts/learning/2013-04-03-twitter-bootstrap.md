@@ -28,7 +28,8 @@ description: |
     public static main(String abc){
         return true;
     }
-```java
+
+```
 public static main(String mng){
     return mn;
 }
