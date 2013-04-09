@@ -5,7 +5,7 @@ permalink: /:categories/:title.html
 
 exclude: [".rbenv-version", "README.md", "Rakefile", "CNAME"]
 auto: true
-markdown: rdiscount
+markdown: redcarpet
 pygments: true
 
 topbar:
