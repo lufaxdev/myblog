@@ -37,6 +37,8 @@ description: |
 <div class="span1">abc</div>
 <div class="span1">abc</div>
 <div class="span1">abc</div>
+</div>
+
 <div class="row show-grid">
 <div class="span4">abc</div>
 <div class="span8">abc</div>
