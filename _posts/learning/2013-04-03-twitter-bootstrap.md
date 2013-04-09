@@ -58,7 +58,6 @@ description: |
         return true;
     }
 `static`
-*着重强调*
 *abc
 *def
 1.abc
