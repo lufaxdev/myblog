@@ -32,7 +32,7 @@ description: |
 publi static main(String def){
     return true;
 }
-<pre>
+</pre>
 {% include JB/setup %}
 
 
