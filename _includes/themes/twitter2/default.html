@@ -45,9 +45,10 @@
       </div>
     </div>
 
-    <div id="main" class="container" >
+    <div id="main" class="container-fluid" >
       {{ content }}
       
+    {% include sidebar.html %}
       <HR />
       <footer class="footer" style="text-align:center; margin:40px 0">
         <p>Lovingly authored by {{ site.author.name }} in 2012 with help 
@@ -57,7 +58,6 @@
       </footer>
     </div> 
     
-    {% include sidebar.html %}
     <a id="forkme" style="display:none" href="http://github.com/superjameswang/myblog"><img style="position: absolute; top: 40px; right: 0; border: 0;" src="{{site.baseurl}}/assets/images/forkme.png" alt="Fork me on GitHub"></a>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="{{ ASSET_PATH }}/js/jquery.min.js"><\/script>')</script>
