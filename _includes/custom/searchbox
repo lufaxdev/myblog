@@ -1,7 +1,7 @@
-<form method="get" action="http://www.google.com.hk/search" target="google_window" style="margin-bottom: 0px;">
+<form method="get" action="http://www.google.com.hk/search" target="google_window" class="form-inline">
 	<div>	
-		<input type="text" value="" name="q" />
-		<input type="submit" name=”btnG” id="searchsubmit" value=" 站内搜索 " />
+		<input type="text" value="" name="q" class= "input-medium" />
+		<input type="submit" name=”btnG” id="searchsubmit" value=" 站内搜索 " class= "btn" />
 	</div>
 	<input type="hidden" name="ie" value="UTF-8" />
 	<input type="hidden" name="oe" value="UTF-8" />
