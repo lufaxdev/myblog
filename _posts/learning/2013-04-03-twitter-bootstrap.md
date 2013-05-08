@@ -8,6 +8,9 @@ description: |
 ---
 
 ##排版
+**排版用嵌套div完成，嵌套div的class遵循container-row-span的原则**
+
+**row内span数字不能超过12，超过12布局会错乱**
 ###固定排版
     <div class="row">
       <div class="span4">abc</div>
@@ -35,7 +38,6 @@ description: |
 <div class="span1">abc</div>
 <div class="span1">abc</div>
 <div class="span1">abc</div>
-<div class="span1">abc</div>
 </div>
 
 <div class="row show-grid">
@@ -44,9 +46,6 @@ description: |
 </div>
 
 <div class="row show-grid">
-<div class="span4">abc</div>
-<div class="span4">abc</div>
-<div class="span4">abc</div>
 <div class="span4">abc</div>
 <div class="span4">abc</div>
 <div class="span4">abc</div>
