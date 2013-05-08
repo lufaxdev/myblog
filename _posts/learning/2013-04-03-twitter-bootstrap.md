@@ -47,27 +47,11 @@ description: |
 <div class="span4">abc</div>
 <div class="span4">abc</div>
 <div class="span4">abc</div>
+<div class="span4">abc</div>
+<div class="span4">abc</div>
 </div>
 </div>
 ###流动排版
-##markdown测试
->开心行ixuexue
->>第二行开始
-<h2>bbbbbbbbbbbbbbbbbb</h2>
-     public static main(String abc){
-        return true;
-    }
-`static`
-
-*static*
-
-`static`
-
-- abc
-- def
-
-1. abc
-2. def
 
 
 
