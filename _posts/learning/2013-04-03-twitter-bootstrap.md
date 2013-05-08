@@ -59,6 +59,10 @@ description: |
     }
 `static`
 
+*static*
+
+`static`
+
 - abc
 - def
 
