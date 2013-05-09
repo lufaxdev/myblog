@@ -10,7 +10,7 @@ description: |
 ##排版
 **排版用嵌套div完成，嵌套div的class遵循container-row-span的原则**
 
-**row内span数字不能超过12，超过12布局会错乱**
+**row内span数字和不能超过12，超过12布局会错乱**
 ###固定排版
     <div class="row">
       <div class="span4">abc</div>
@@ -52,7 +52,7 @@ description: |
 </div>
 </div>
 ###流动排版
-
+基本原则和固定排版一致就是用container-fluid,row-fluid替代container,row
 
 
 
